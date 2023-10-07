@@ -1,0 +1,46 @@
+.tdl-article {
+
+    display: block;
+    align-items: center;
+
+}
+.tdl-article-div{
+    margin: 30px;
+}
+.tdl-article-h1{
+
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: system-ui;
+
+}
+.tdl-article-header {
+    display: flex;
+    align-items: center;
+}
+.tdl-article-header-input{
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    width: 250px;
+    height: 40px;
+    font-family: system-ui;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.tdl-article-header-div-button{
+    border: 0;
+    padding: 14px 15px;
+    border-radius: 5px;
+    color: black;
+    background-color: rgba(58, 161, 252, 0.858);
+    cursor: pointer;
+}
+.tdl-article-header-div-button:hover {
+
+    background-color: rgb(35, 153, 255);
+}
+.tdl-article-header-div-button:active{
+    background-color: rgb(0, 133, 250);
+}
